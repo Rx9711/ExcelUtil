@@ -7,6 +7,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Properties;
 
+/**
+ * 所有的反射功能
+ */
 public class MyReflect {
 
     //加载配置文件的方法
